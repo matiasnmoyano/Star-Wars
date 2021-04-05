@@ -1,0 +1,25 @@
+
+.info{
+    display: block;
+    width: 60%;
+    height: auto;
+    margin-top: 10rem;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 200px;
+    max-width: 500px;
+    opacity: 0.6; 
+}
+.body{
+    color: black;
+    background-color: rgba(155, 155, 155, 0.63);
+     
+}
+.text{
+    margin: 15px;
+    width: 15rem;
+}
+.title3{
+    font-size: 2rem;
+    
+}
